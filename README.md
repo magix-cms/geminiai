@@ -1,6 +1,7 @@
 # Gemini AI for Magix CMS
 
-![Release](https://img.shields.io/github/release/magix-cms/geminiai.svg)
+
+[![release](https://img.shields.io/github/release/magix-cms/geminiai.svg)](https://github.com/magix-cms/geminiai/releases/latest)
 ![License](https://img.shields.io/github/license/magix-cms/geminiai.svg)
 ![PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-blue.svg)
 
