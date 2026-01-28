@@ -12,6 +12,8 @@ Ce plugin open source intègre l'intelligence artificielle **Google Gemini** au 
 * **Gerits Aurelien** (gtraxx) - [aurelien@magix-cms.com](mailto:aurelien@magix-cms.com)
 * Communauté Magix CMS
 
+## Demo
+<img width="1221" height="660" alt="Image" src="https://github.com/user-attachments/assets/dce130dd-e938-4b81-8a05-32ab527431d4" />
 ---
 
 ## Description
