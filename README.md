@@ -12,6 +12,12 @@ Ce plugin open source intègre l'intelligence artificielle **Google Gemini** au 
 * **Gerits Aurelien** (gtraxx) - [aurelien@magix-cms.com](mailto:aurelien@magix-cms.com)
 * Communauté Magix CMS
 
+## Soutenir le projet
+
+Si vous souhaitez soutenir le développement, vous pouvez faire un don via PayPal :
+
+[![Faire un don](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?business=BQBYN3XYGMDML&no_recurring=0&currency_code=EUR)
+
 ## Demo
 <img width="1221" height="660" alt="Image" src="https://github.com/user-attachments/assets/dce130dd-e938-4b81-8a05-32ab527431d4" />
 ---
@@ -74,4 +80,8 @@ Ce projet est open source. Nous encourageons les développeurs à :
 
 ## Licence
 
-Distribué sous la licence MIT et GPL3. Voir `LICENSE` pour plus d'informations.
+Ce projet est sous licence **GPLv3**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Copyright (C) 2008 - 2026 Gerits Aurelien (Magix CMS)
+Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale GNU telle que publiée par la Free Software Foundation ; soit la version 3 de la Licence, ou (à votre discrétion) toute version ultérieure.
+
+---
