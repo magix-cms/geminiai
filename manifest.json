@@ -1,0 +1,9 @@
+{
+  "name": "GeminiAi",
+  "version": "1.0.0",
+  "author": "Magix CMS",
+  "description": "Gemini AI",
+  "type": "backend",
+  "has_config": true,
+  "core_targets": {}
+}
