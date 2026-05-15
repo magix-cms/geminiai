@@ -24,7 +24,7 @@ class BackendController extends BaseController
             return;
         }
 
-        // 🟢 Action de lecture (API) : le BaseController s'est déjà assuré que c'est un Admin.
+        //  Action de lecture (API) : le BaseController s'est déjà assuré que c'est un Admin.
         if ($action === 'generate' && Request::isMethod('POST')) {
             $this->processGenerateContent();
             return;
